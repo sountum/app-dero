@@ -14,4 +14,8 @@
 	- [ ] sign_tx handle
 - [ ] Ledger Live
 - [ ] Add documentation about bn256 on the dero wiki
-- [ ] Develop a kernel that can be deployed without many hardware    requirements as option 2 of the category. 
+- [ ] Develop a kernel that can be deployed without many hardware    requirements as option 2 of the category.
+
+## 
+
+dero1qy9snkjmcjvurvlu9g5usff0wmutt0rhrqngkkq6cyjy5dm6fu056qq96jx7z
